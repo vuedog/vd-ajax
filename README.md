@@ -1,4 +1,4 @@
-vue-ajax
+vd-ajax
 ======
 
 Work in progress
